@@ -63,37 +63,57 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Triangle Associates",
+        "title": "Administrative Assistant",
+        "years": "03.2021 - 04.2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "Microsoft 365"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Microsoft Office",
+          "Microsoft OneDrive",
+          "Microsoft Teams",
+          "BillQuick",
+          "Zoom",
+          "Slack"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Comcast Technology Solutions",
+        "title": "Administrative Assistant",
+        "years": "12.2018 - 07.2020",
         "mainTech": [
-          "Angular 7/8"
+          "Microsoft Office"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Microsoft Outlook",
+          "Comcast Expense Portal",
+          "Slack"
+        ]
+      },
+      {
+        "company": "LuxuryRealEstate.com",
+        "title": "Member Services Coordinator",
+        "years": "05.2015 - 12.2018",
+        "mainTech": [
+          "Microsoft Office"
+        ],
+        "technologies": [
+          "Microsoft Outlook",
+          "LRE Backend Portal"
+        ]
+      },
+      {
+        "company": "School of Rock",
+        "title": "Assistant General Manager",
+        "years": "11.2013 - 04.2015",
+        "mainTech": [
+          "Google Workspace"
+        ],
+        "technologies": [
+          "Gmail",
+          "Basecamp",
+          "Zendesk"
         ]
       }
     ]
